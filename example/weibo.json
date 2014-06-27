@@ -1,0 +1,11 @@
+{
+    "sina": {
+        "api_version":2,
+        "api_key" : "3553306905",
+        "api_secret" : "3c74f22eacb3f95661901b2ba6d9b5c0",
+        "callback_url" : "http://test.yingyongle.com",
+        "base_oauth_url" :"https://api.weibo.com/oauth2/",
+        "base_api_url":"https://api.weibo.com/2/",
+        "response_type" : "code"
+    }
+}
